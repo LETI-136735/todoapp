@@ -1,6 +1,8 @@
 # Todoapp README
 
-- [ ] TODO Replace or update this README with instructions relevant to your application
+Alonso Mendez Alvarez 136706
+Hugo Iglesias 136735
+Alvaro Arenas 136707
 
 ## Project Structure
 
