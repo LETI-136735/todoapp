@@ -53,6 +53,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.gyftedstore.currency/exchange-rate-core -->
+        <dependency>
+            <groupId>com.gyftedstore.currency</groupId>
+            <artifactId>exchange-rate-core</artifactId>
+            <version>1.0.12</version>
+        </dependency>
     </dependencies>
     
     <build>
