@@ -1,7 +1,7 @@
 // java
 package iscteiul.ista.pdf;
 
-// Importaciones necesarias
+// Importaciones necesarias de ahora
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 
