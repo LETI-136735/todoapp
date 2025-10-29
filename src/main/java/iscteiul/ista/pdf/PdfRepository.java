@@ -1,10 +1,12 @@
 // java
-package pdf;
+package iscteiul.ista.pdf;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+// Importaciones necesarias
 import org.springframework.stereotype.Repository;
+import org.springframework.data.jpa.repository.JpaRepository;
+
 
 @Repository
-public interface PdfRepository extends JpaRepository<Pdf, Long> {
+public interface PdfRepository extends JpaRepository<pdf.Pdf, Long> {
     // métodos adicionales si se necesitan
 }
