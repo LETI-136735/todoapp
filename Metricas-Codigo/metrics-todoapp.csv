@@ -1,0 +1,14 @@
+Package Name,A,Ca,Ce,PAHD,PACHEF,PACHER,PACHL,PACHVC,PAHVL,I,PLOC,PAMI,PNCSS,D,PNOAC,PNOCC,PNOI,PNOSC,Comments
+iscteiul,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,"After calculating the project-wide metrics using MetricsTree, the overall results show a medium level of code quality."
+iscteiul.ista,0,0,0,3,90,0.0067,10,8,30,1,3,79.2493,1,0,0,1,0,0,"The system presents acceptable coupling and flexibility, but several classes (especially PdfService and TaskService) have high complexity and low cohesion."
+iscteiul.ista.base,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,"The maintainability index is relatively low (≈17), suggesting the need for refactoring in specific areas to improve clarity and testability."
+iscteiul.ista.base.ui,0,0,0,33.3158,10130.5062,0.1923,111,76,587.8043,1,42,44.9593,26,0,0,2,0,0,"Overall, the ToDoApp project is functionally correct and structurally stable, but modularization and class simplification should be prioritized in future iterations."
+iscteiul.ista.base.ui.component,0,1,0,12.1136,4411.5331,0.0897,71,35,364.1791,0,23,52.2132,16,1,0,1,0,0,
+iscteiul.ista.email,0.3333,1,0,23.5,5881,0.1277,100,48,453,0,51,43.8081,24,0.6667,0,2,1,0,
+iscteiul.ista.email.ui,0,0,1,15,4565.6969,0.0917,58,38,304.3798,1,21,53.675,16,0,0,1,0,0,
+iscteiul.ista.examplefeature,0.3333,2,0,34.5505,13846.3481,0.2254,128,76,691.2808,0,62,40.6146,28,0.6667,0,2,1,0,
+iscteiul.ista.examplefeature.ui,0,0,2,39.6,31952.6039,0.3356,128,79,806.8839,1,36,45.6041,28,0,0,1,0,0,
+iscteiul.ista.forex,0.3333,1,0,21.8472,4594.1047,0.1131,101,44,446.0656,0,27,49.8802,22,0.6667,0,2,1,0,
+iscteiul.ista.forex.ui,0,0,1,15.64,5765.0217,0.1072,66,48,368.6075,1,21,52.9696,15,0,0,1,0,0,
+iscteiul.ista.pdf,0.3333,1,0,21.0927,8900.8529,0.1622,125,68,652.6346,0,64,40.5467,32,0.6667,0,2,1,0,
+iscteiul.ista.pdf.ui,0,0,2,22.5217,9836.9721,0.153,77,51,436.7768,1,25,50.8705,16,0,0,1,0,0,
