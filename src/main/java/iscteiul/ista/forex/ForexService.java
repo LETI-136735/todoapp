@@ -15,7 +15,7 @@ public class ForexService {
     }
 
     public double convert(String from, String to, double amount) {
-        double rate = provider.getRate(from, to);
+        double rate = provider.getRate2(from, to);
         double result = amount * rate;
 
         Forex forex = new Forex();
